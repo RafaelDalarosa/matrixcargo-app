@@ -1,0 +1,21 @@
+.navbar {
+  padding: 20px;
+  background-color: #86BF9B;
+  font-size: 20px;
+  color: #FFF;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+<<<<<<< HEAD
+.repo {
+  padding: 50px;
+=======
+.repos {
+  padding: 20px;
+>>>>>>> 61131e7a74a0557f3e60581082d442612e8d44ca
+}
